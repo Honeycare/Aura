@@ -312,7 +312,7 @@ footer .copyright a:hover{
     *{margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family:  `Roboto`,sans-serif;
+    font-family:  `Roboto` ,sans-serif;
     }
     body{
         background: #d9a7c7;  /* fallback for old browsers */
@@ -401,3 +401,12 @@ footer .copyright a:hover{
 
         color: #d9a7c7;
     }
+   .no-underline {
+    text-decoration: none ! important;
+   }
+   a {
+    text-decoration: none;
+   }
+   p{
+    color: #000;
+   }

@@ -407,4 +407,15 @@ footer .copyright a:hover{
    a {
     text-decoration: none;
    }
-   
+   #searchInput {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#searchResults a {
+    display: block;
+    margin: 5px 0;
+    text-decoration: none;
+    color: blue;
+}
